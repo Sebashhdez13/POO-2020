@@ -11,6 +11,8 @@ Es importante bajar el SDK, por que **vamos a programar**.
 La pagina se ve asi:
 
 ![imagen dotnet 3.0](https://github.com/Sebashhdez13/POO-2020/blob/master/Setup/img/dotnet%203.0.PNG).
+
+Hola Mundo 
 ## Instalacion y configuracion de Visual Studio code para C#
 
 ## Instalacion de git. conectado a tu cuenta de Github y VSC
