@@ -22,4 +22,6 @@
 
 4.Una vez terminada la instalacion del Visual Studio Code lo abriremos y nos debe de aparecer como la siguiente imagen ![imagen visual studio 3](https://github.com/Sebashhdez13/POO-2020/blob/master/Setup/img/Visual%20Code%203.PNG)
 
+5.Ya quedaria listo para utilizarse.
+
 ## Instalacion de git. conectado a tu cuenta de Github y VSC
