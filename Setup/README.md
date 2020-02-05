@@ -17,4 +17,6 @@
 
 2.Despues en la pagina indicada apretamos el boton que se muestra aqui ![imagen visual studio](https://github.com/Sebashhdez13/POO-2020/blob/master/Setup/img/Visual%20Code%201.PNG)
 
+3.Debemos de darle a ejecutar para comenzar la instalacion del Visual Studio Code como se muestra en la siguiente imagen ![imagen visual studio 2](https://github.com/Sebashhdez13/POO-2020/blob/master/Setup/img/Visual%20Code%202.PNG)
+
 ## Instalacion de git. conectado a tu cuenta de Github y VSC
