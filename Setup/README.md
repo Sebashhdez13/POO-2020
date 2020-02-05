@@ -13,5 +13,6 @@ La pagina se ve asi:
 ![imagen dotnet 3.0](https://github.com/Sebashhdez13/POO-2020/blob/master/Setup/img/dotnet%203.0.PNG).
 
 ## Instalacion y configuracion de Visual Studio code para C#
+Debemos dirigirnos a la pagina oficial de Visual Studio Code [Lugar](https://code.visualstudio.com/)
 
 ## Instalacion de git. conectado a tu cuenta de Github y VSC
