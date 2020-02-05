@@ -30,4 +30,6 @@
 
 2.Lo siguiente seria presionar el siguiente boton para comenzar la descarga: ![imagen GIT](https://github.com/Sebashhdez13/POO-2020/blob/master/Setup/img/GIT%201.PNG)
 
+3.Una vez hecho el paso anterior debemos ejecutar el programa para comenzar la instalacion: ![imagen GIT 2](https://github.com/Sebashhdez13/POO-2020/blob/master/Setup/img/GIT%202.PNG)
 
+4.
