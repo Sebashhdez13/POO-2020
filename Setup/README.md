@@ -32,4 +32,7 @@
 
 3.Una vez hecho el paso anterior debemos ejecutar el programa para comenzar la instalacion: ![imagen GIT 2](https://github.com/Sebashhdez13/POO-2020/blob/master/Setup/img/GIT%202.PNG)
 
-4.
+4.Debemos apretar el boton de Next cuando termines de leer los terminos como se muestra acontinuacion: ![imagen GIT 3](https://github.com/Sebashhdez13/POO-2020/blob/master/Setup/img/GIT%203.PNG)
+
+
+5.Debemos de seleccionar las casillas que creamos que necesitemos y apretamos Next: ![imagen GIT 4](https://github.com/Sebashhdez13/POO-2020/blob/master/Setup/img/GIT%204.PNG)
