@@ -36,3 +36,9 @@
 
 
 5.Debemos de seleccionar las casillas que creamos que necesitemos y apretamos Next: ![imagen GIT 4](https://github.com/Sebashhdez13/POO-2020/blob/master/Setup/img/GIT%204.PNG)
+
+
+6.Debemos indicar en donde utilizaremos el GIT: ![imagen GIT 5](https://github.com/Sebashhdez13/POO-2020/blob/master/Setup/img/GIT%205.PNG)
+
+
+7.Volvemos a realizar el mismo procedimiento apretando Next: ![imagen GIT 6](https://github.com/Sebashhdez13/POO-2020/blob/master/Setup/img/GIT%206.PNG)
