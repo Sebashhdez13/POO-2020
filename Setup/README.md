@@ -42,3 +42,9 @@
 
 
 7.Volvemos a realizar el mismo procedimiento apretando Next: ![imagen GIT 6](https://github.com/Sebashhdez13/POO-2020/blob/master/Setup/img/GIT%206.PNG)
+
+
+8.Realizamos lo mismo volvemos a apretar el boton Next: ![imagen GIT 7](https://github.com/Sebashhdez13/POO-2020/blob/master/Setup/img/GIT7.PNG)
+
+
+9.Una vez instalado abrimos el programa y esta listo para utilizarse: ![imagen GIT 8](https://github.com/Sebashhdez13/POO-2020/blob/master/Setup/img/GIT%208.PNG)
