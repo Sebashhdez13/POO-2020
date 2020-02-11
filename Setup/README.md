@@ -2,7 +2,7 @@
 # Ejercicio de Markdown
 
 
-## Instalacion  de dotnet core 2.2.
+## Instalacion  de dotnet core 3.0
 
 1.Lo primero que tenemos que hacer es bajar el archivo de instalacion del siguiente: 
 [Lugar](https://dotnet.microsoft.com/download/dotnet-core/3.0).
