@@ -15,6 +15,9 @@
 4.Instalaremos estos que se indican en la siguiente imagen:
 ![imagen dotnet 3.0 1](https://github.com/Sebashhdez13/POO-2020/blob/master/Setup/img/dotnet%203.0%201.PNG).
 
+5.Ya instalado, deberia agarrar en el PowerShell el dotnet, como se puede notar en la imagen:
+![imagen dotnet 3.0 2](https://github.com/Sebashhdez13/POO-2020/blob/master/Setup/img/dotnet%203.0%202.PNG).
+
 ## Instalacion y configuracion de Visual Studio code para C#
 
 1.Debemos dirigirnos a la pagina oficial de Visual Studio Code: [Lugar](https://code.visualstudio.com/)
