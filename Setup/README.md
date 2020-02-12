@@ -4,7 +4,7 @@
 
 ## Instalacion  de dotnet core 3.0
 
-1.Lo primero que tenemos que hacer es bajar el archivo de instalacion del siguiente: 
+1. Lo primero que tenemos que hacer es bajar el archivo de instalacion de la siguiente pagina: 
 [Lugar](https://dotnet.microsoft.com/download/dotnet-core/3.0).
 
 2.Es importante bajar el SDK, por que **vamos a programar**.
