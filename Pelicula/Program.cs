@@ -43,6 +43,22 @@ namespace Pelicula
         {
             return this.director;
         }
+        //Constructor
+        public Pelicula()
+        {
+
+        }
+        public Pelicula(String titulo , Int16 año)
+        {
+            this.titulo = titulo;
+            this.año = año;
+        }
+        //Imprimir
+        public void Imprime()
+        {
+            Console.WriteLine("{0}({1})", this.titulo, this.año);
+        }
+
 
     }
     class Program
