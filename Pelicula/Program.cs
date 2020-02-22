@@ -5,10 +5,10 @@ namespace Pelicula
     class Pelicula
     {
         //Atributos
-        public string titulo;
-        public Int16 año;
-        public string pais;
-        public string director;
+        private string titulo;
+        private Int16 año;
+        private string pais;
+        private string director;
 
         //Metodos
         public void Settitulo(string T)
@@ -27,14 +27,38 @@ namespace Pelicula
         {
             return this.año;
         }
+         public void Setpais(string P)
+        {
+            pais = P;
+        }
+        public string Getpais()
+        {
+            return this.pais;
+        }
+         public void Setdirector(string D)
+        {
+            director = D;
+        }
+        public string Getdirector()
+        {
+            return this.director;
+        }
 
     }
     class Program
     {
         static void Main(string[] args)
         {
-            
+            //Objetos
+            Pelicula P1 = new Pelicula();
+            P1.Settitulo("La forma del agua");
+            P1.Setaño(2018);
+            Console.WriteLine("{0}({1})" , P1.Gettitulo(), P1.Getaño());
 
+            Pelicula P2 = new Pelicula();
+            P2.Settitulo("Argo");
+            P2.Setaño(2013);
+            Console.WriteLine("{0}({1})" , P2.Gettitulo(), P2.Getaño());
         }
     }
 }
