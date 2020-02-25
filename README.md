@@ -21,3 +21,5 @@ Nombre Del Maestro: Jose Mario Garcia Valdez
 Aula Y Horario: 91L6 Y 9206 De 12:00 - 13:00 P.M
 
 [Actividad 1](./Setup/README.md)
+[Programa Peliculas](https://github.com/Sebashhdez13/POO-2020/tree/master/Pelicula)
+[Lista de Peliculas](https://github.com/Sebashhdez13/POO-2020/tree/master/ListadePeliculas)
