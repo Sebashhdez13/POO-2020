@@ -28,4 +28,11 @@ Aula Y Horario: 91L6 Y 9206 De 12:00 - 13:00 P.M
 
 [Lista de Peliculas](https://github.com/Sebashhdez13/POO-2020/tree/master/ListadePeliculas)
 
+
+[Actores](https://github.com/Sebashhdez13/POO-2020/tree/master/Pelicula)
+
+
 [UML](https://github.com/Sebashhdez13/POO-2020/tree/master/UML)
+
+
+[Parametros](https://github.com/Sebashhdez13/POO-2020/tree/master/Parametros)
