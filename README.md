@@ -36,3 +36,36 @@ Aula Y Horario: 91L6 Y 9206 De 12:00 - 13:00 P.M
 
 
 [Parametros](https://github.com/Sebashhdez13/POO-2020/tree/master/Parametros)
+
+
+[Domino](https://github.com/Sebashhdez13/POO-2020/tree/master/Domino)
+
+
+[Duracion](https://github.com/Sebashhdez13/POO-2020/tree/master/Duracion)
+
+
+[Alumnos](https://github.com/Sebashhdez13/POO-2020/tree/master/Alumnos)
+
+
+[Musicos](https://github.com/Sebashhdez13/POO-2020/tree/master/Musicos)
+
+
+[Ilustrador Abstractos](https://github.com/Sebashhdez13/POO-2020/tree/master/Ilustrador)
+
+
+[Ilustrador Interfaz](https://github.com/Sebashhdez13/POO-2020/tree/master/IlustradorI)
+
+
+[Musicos Abstractos](https://github.com/Sebashhdez13/POO-2020/tree/master/MusicosAbstractos)
+
+
+[Pila](https://github.com/Sebashhdez13/POO-2020/tree/master/Stack)
+
+
+[Cola](https://github.com/Sebashhdez13/POO-2020/tree/master/Cola)
+
+
+[Ilustrador-de-Windows](https://github.com/Sebashhdez13/POO-2020/tree/master/WindowsFigura)
+
+
+
