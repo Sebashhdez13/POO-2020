@@ -1,0 +1,11 @@
+C:\Users\sebas\Documents\GitHub\POO-2020\Cola\bin\Debug\netcoreapp3.1\Cola.exe
+C:\Users\sebas\Documents\GitHub\POO-2020\Cola\bin\Debug\netcoreapp3.1\Cola.deps.json
+C:\Users\sebas\Documents\GitHub\POO-2020\Cola\bin\Debug\netcoreapp3.1\Cola.runtimeconfig.json
+C:\Users\sebas\Documents\GitHub\POO-2020\Cola\bin\Debug\netcoreapp3.1\Cola.runtimeconfig.dev.json
+C:\Users\sebas\Documents\GitHub\POO-2020\Cola\bin\Debug\netcoreapp3.1\Cola.dll
+C:\Users\sebas\Documents\GitHub\POO-2020\Cola\bin\Debug\netcoreapp3.1\Cola.pdb
+C:\Users\sebas\Documents\GitHub\POO-2020\Cola\obj\Debug\netcoreapp3.1\Cola.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GitHub\POO-2020\Cola\obj\Debug\netcoreapp3.1\Cola.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\GitHub\POO-2020\Cola\obj\Debug\netcoreapp3.1\Cola.AssemblyInfo.cs
+C:\Users\sebas\Documents\GitHub\POO-2020\Cola\obj\Debug\netcoreapp3.1\Cola.dll
+C:\Users\sebas\Documents\GitHub\POO-2020\Cola\obj\Debug\netcoreapp3.1\Cola.pdb

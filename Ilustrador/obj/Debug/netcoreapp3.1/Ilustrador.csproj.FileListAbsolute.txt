@@ -1,0 +1,11 @@
+C:\Users\sebas\Documents\GitHub\POO-2020\Ilustrador\bin\Debug\netcoreapp3.1\Ilustrador.exe
+C:\Users\sebas\Documents\GitHub\POO-2020\Ilustrador\bin\Debug\netcoreapp3.1\Ilustrador.deps.json
+C:\Users\sebas\Documents\GitHub\POO-2020\Ilustrador\bin\Debug\netcoreapp3.1\Ilustrador.runtimeconfig.json
+C:\Users\sebas\Documents\GitHub\POO-2020\Ilustrador\bin\Debug\netcoreapp3.1\Ilustrador.runtimeconfig.dev.json
+C:\Users\sebas\Documents\GitHub\POO-2020\Ilustrador\bin\Debug\netcoreapp3.1\Ilustrador.dll
+C:\Users\sebas\Documents\GitHub\POO-2020\Ilustrador\bin\Debug\netcoreapp3.1\Ilustrador.pdb
+C:\Users\sebas\Documents\GitHub\POO-2020\Ilustrador\obj\Debug\netcoreapp3.1\Ilustrador.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GitHub\POO-2020\Ilustrador\obj\Debug\netcoreapp3.1\Ilustrador.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\GitHub\POO-2020\Ilustrador\obj\Debug\netcoreapp3.1\Ilustrador.AssemblyInfo.cs
+C:\Users\sebas\Documents\GitHub\POO-2020\Ilustrador\obj\Debug\netcoreapp3.1\Ilustrador.dll
+C:\Users\sebas\Documents\GitHub\POO-2020\Ilustrador\obj\Debug\netcoreapp3.1\Ilustrador.pdb

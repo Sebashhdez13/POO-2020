@@ -1,0 +1,11 @@
+C:\Users\sebas\Documents\GitHub\POO-2020\MusicosAbstractos\bin\Debug\netcoreapp3.1\MusicosAbstractos.exe
+C:\Users\sebas\Documents\GitHub\POO-2020\MusicosAbstractos\bin\Debug\netcoreapp3.1\MusicosAbstractos.deps.json
+C:\Users\sebas\Documents\GitHub\POO-2020\MusicosAbstractos\bin\Debug\netcoreapp3.1\MusicosAbstractos.runtimeconfig.json
+C:\Users\sebas\Documents\GitHub\POO-2020\MusicosAbstractos\bin\Debug\netcoreapp3.1\MusicosAbstractos.runtimeconfig.dev.json
+C:\Users\sebas\Documents\GitHub\POO-2020\MusicosAbstractos\bin\Debug\netcoreapp3.1\MusicosAbstractos.dll
+C:\Users\sebas\Documents\GitHub\POO-2020\MusicosAbstractos\bin\Debug\netcoreapp3.1\MusicosAbstractos.pdb
+C:\Users\sebas\Documents\GitHub\POO-2020\MusicosAbstractos\obj\Debug\netcoreapp3.1\MusicosAbstractos.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GitHub\POO-2020\MusicosAbstractos\obj\Debug\netcoreapp3.1\MusicosAbstractos.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\GitHub\POO-2020\MusicosAbstractos\obj\Debug\netcoreapp3.1\MusicosAbstractos.AssemblyInfo.cs
+C:\Users\sebas\Documents\GitHub\POO-2020\MusicosAbstractos\obj\Debug\netcoreapp3.1\MusicosAbstractos.dll
+C:\Users\sebas\Documents\GitHub\POO-2020\MusicosAbstractos\obj\Debug\netcoreapp3.1\MusicosAbstractos.pdb

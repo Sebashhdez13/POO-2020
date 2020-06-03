@@ -1,0 +1,11 @@
+C:\Users\sebas\Documents\GitHub\POO-2020\Domino\bin\Debug\netcoreapp3.1\Domino.exe
+C:\Users\sebas\Documents\GitHub\POO-2020\Domino\bin\Debug\netcoreapp3.1\Domino.deps.json
+C:\Users\sebas\Documents\GitHub\POO-2020\Domino\bin\Debug\netcoreapp3.1\Domino.runtimeconfig.json
+C:\Users\sebas\Documents\GitHub\POO-2020\Domino\bin\Debug\netcoreapp3.1\Domino.runtimeconfig.dev.json
+C:\Users\sebas\Documents\GitHub\POO-2020\Domino\bin\Debug\netcoreapp3.1\Domino.dll
+C:\Users\sebas\Documents\GitHub\POO-2020\Domino\bin\Debug\netcoreapp3.1\Domino.pdb
+C:\Users\sebas\Documents\GitHub\POO-2020\Domino\obj\Debug\netcoreapp3.1\Domino.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GitHub\POO-2020\Domino\obj\Debug\netcoreapp3.1\Domino.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\GitHub\POO-2020\Domino\obj\Debug\netcoreapp3.1\Domino.AssemblyInfo.cs
+C:\Users\sebas\Documents\GitHub\POO-2020\Domino\obj\Debug\netcoreapp3.1\Domino.dll
+C:\Users\sebas\Documents\GitHub\POO-2020\Domino\obj\Debug\netcoreapp3.1\Domino.pdb

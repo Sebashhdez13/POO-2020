@@ -1,0 +1,11 @@
+C:\Users\sebas\Documents\GitHub\POO-2020\Pelicula\bin\Debug\netcoreapp3.1\Pelicula.exe
+C:\Users\sebas\Documents\GitHub\POO-2020\Pelicula\bin\Debug\netcoreapp3.1\Pelicula.deps.json
+C:\Users\sebas\Documents\GitHub\POO-2020\Pelicula\bin\Debug\netcoreapp3.1\Pelicula.runtimeconfig.json
+C:\Users\sebas\Documents\GitHub\POO-2020\Pelicula\bin\Debug\netcoreapp3.1\Pelicula.runtimeconfig.dev.json
+C:\Users\sebas\Documents\GitHub\POO-2020\Pelicula\bin\Debug\netcoreapp3.1\Pelicula.dll
+C:\Users\sebas\Documents\GitHub\POO-2020\Pelicula\bin\Debug\netcoreapp3.1\Pelicula.pdb
+C:\Users\sebas\Documents\GitHub\POO-2020\Pelicula\obj\Debug\netcoreapp3.1\Pelicula.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GitHub\POO-2020\Pelicula\obj\Debug\netcoreapp3.1\Pelicula.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\GitHub\POO-2020\Pelicula\obj\Debug\netcoreapp3.1\Pelicula.AssemblyInfo.cs
+C:\Users\sebas\Documents\GitHub\POO-2020\Pelicula\obj\Debug\netcoreapp3.1\Pelicula.dll
+C:\Users\sebas\Documents\GitHub\POO-2020\Pelicula\obj\Debug\netcoreapp3.1\Pelicula.pdb

@@ -1,0 +1,11 @@
+C:\Users\sebas\Documents\GitHub\POO-2020\Alumnos\bin\Debug\netcoreapp3.1\Alumnos.exe
+C:\Users\sebas\Documents\GitHub\POO-2020\Alumnos\bin\Debug\netcoreapp3.1\Alumnos.deps.json
+C:\Users\sebas\Documents\GitHub\POO-2020\Alumnos\bin\Debug\netcoreapp3.1\Alumnos.runtimeconfig.json
+C:\Users\sebas\Documents\GitHub\POO-2020\Alumnos\bin\Debug\netcoreapp3.1\Alumnos.runtimeconfig.dev.json
+C:\Users\sebas\Documents\GitHub\POO-2020\Alumnos\bin\Debug\netcoreapp3.1\Alumnos.dll
+C:\Users\sebas\Documents\GitHub\POO-2020\Alumnos\bin\Debug\netcoreapp3.1\Alumnos.pdb
+C:\Users\sebas\Documents\GitHub\POO-2020\Alumnos\obj\Debug\netcoreapp3.1\Alumnos.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GitHub\POO-2020\Alumnos\obj\Debug\netcoreapp3.1\Alumnos.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\GitHub\POO-2020\Alumnos\obj\Debug\netcoreapp3.1\Alumnos.AssemblyInfo.cs
+C:\Users\sebas\Documents\GitHub\POO-2020\Alumnos\obj\Debug\netcoreapp3.1\Alumnos.dll
+C:\Users\sebas\Documents\GitHub\POO-2020\Alumnos\obj\Debug\netcoreapp3.1\Alumnos.pdb
