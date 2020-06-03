@@ -1,0 +1,10 @@
+C:\Users\sebas\Documents\WindowsFigura\WindowsFigura\obj\Debug\WindowsFigura.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\WindowsFigura\WindowsFigura\obj\Debug\WindowsFigura.Form1.resources
+C:\Users\sebas\Documents\WindowsFigura\WindowsFigura\obj\Debug\WindowsFigura.Properties.Resources.resources
+C:\Users\sebas\Documents\WindowsFigura\WindowsFigura\obj\Debug\WindowsFigura.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\WindowsFigura\WindowsFigura\obj\Debug\WindowsFigura.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\WindowsFigura\WindowsFigura\bin\Debug\WindowsFigura.exe.config
+C:\Users\sebas\Documents\WindowsFigura\WindowsFigura\bin\Debug\WindowsFigura.exe
+C:\Users\sebas\Documents\WindowsFigura\WindowsFigura\bin\Debug\WindowsFigura.pdb
+C:\Users\sebas\Documents\WindowsFigura\WindowsFigura\obj\Debug\WindowsFigura.exe
+C:\Users\sebas\Documents\WindowsFigura\WindowsFigura\obj\Debug\WindowsFigura.pdb
