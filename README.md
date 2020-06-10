@@ -65,12 +65,12 @@ Aula Y Horario: 91L6 Y 9206 De 12:00 - 13:00 P.M
 [Cola](https://github.com/Sebashhdez13/POO-2020/tree/master/Cola)
 
 
-[Ilustrador-de-Windows](https://github.com/Sebashhdez13/POO-2020/tree/master/WindowsFigura)
+[Ilustrador de Windows](https://github.com/Sebashhdez13/POO-2020/tree/master/WindowsFigura)
 
 
 [Proyecto Videojuego](https://github.com/Sebashhdez13/POO-2020/tree/master/ProyectoFinal)
 
 
-[Proyecto-Producto](https://github.com/Sebashhdez13/POO-2020/tree/master/ProyectoProducto)
+[Proyecto Producto](https://github.com/Sebashhdez13/POO-2020/tree/master/ProyectoProducto)
 
 
