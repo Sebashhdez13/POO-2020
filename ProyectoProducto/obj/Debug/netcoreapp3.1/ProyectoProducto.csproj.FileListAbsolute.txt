@@ -1,0 +1,11 @@
+C:\Users\sebas\Documents\GitHub\POO-2020\ProyectoProducto\obj\Debug\netcoreapp3.1\ProyectoProducto.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GitHub\POO-2020\ProyectoProducto\obj\Debug\netcoreapp3.1\ProyectoProducto.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\GitHub\POO-2020\ProyectoProducto\obj\Debug\netcoreapp3.1\ProyectoProducto.AssemblyInfo.cs
+C:\Users\sebas\Documents\GitHub\POO-2020\ProyectoProducto\bin\Debug\netcoreapp3.1\ProyectoProducto.exe
+C:\Users\sebas\Documents\GitHub\POO-2020\ProyectoProducto\bin\Debug\netcoreapp3.1\ProyectoProducto.deps.json
+C:\Users\sebas\Documents\GitHub\POO-2020\ProyectoProducto\bin\Debug\netcoreapp3.1\ProyectoProducto.runtimeconfig.json
+C:\Users\sebas\Documents\GitHub\POO-2020\ProyectoProducto\bin\Debug\netcoreapp3.1\ProyectoProducto.runtimeconfig.dev.json
+C:\Users\sebas\Documents\GitHub\POO-2020\ProyectoProducto\bin\Debug\netcoreapp3.1\ProyectoProducto.dll
+C:\Users\sebas\Documents\GitHub\POO-2020\ProyectoProducto\bin\Debug\netcoreapp3.1\ProyectoProducto.pdb
+C:\Users\sebas\Documents\GitHub\POO-2020\ProyectoProducto\obj\Debug\netcoreapp3.1\ProyectoProducto.dll
+C:\Users\sebas\Documents\GitHub\POO-2020\ProyectoProducto\obj\Debug\netcoreapp3.1\ProyectoProducto.pdb

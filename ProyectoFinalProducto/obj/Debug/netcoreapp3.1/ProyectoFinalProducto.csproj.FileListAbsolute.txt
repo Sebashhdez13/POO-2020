@@ -1,0 +1,11 @@
+C:\Users\sebas\Documents\GitHub\POO-2020\ProyectoFinalProducto\bin\Debug\netcoreapp3.1\ProyectoFinalProducto.exe
+C:\Users\sebas\Documents\GitHub\POO-2020\ProyectoFinalProducto\bin\Debug\netcoreapp3.1\ProyectoFinalProducto.deps.json
+C:\Users\sebas\Documents\GitHub\POO-2020\ProyectoFinalProducto\bin\Debug\netcoreapp3.1\ProyectoFinalProducto.runtimeconfig.json
+C:\Users\sebas\Documents\GitHub\POO-2020\ProyectoFinalProducto\bin\Debug\netcoreapp3.1\ProyectoFinalProducto.runtimeconfig.dev.json
+C:\Users\sebas\Documents\GitHub\POO-2020\ProyectoFinalProducto\bin\Debug\netcoreapp3.1\ProyectoFinalProducto.dll
+C:\Users\sebas\Documents\GitHub\POO-2020\ProyectoFinalProducto\bin\Debug\netcoreapp3.1\ProyectoFinalProducto.pdb
+C:\Users\sebas\Documents\GitHub\POO-2020\ProyectoFinalProducto\obj\Debug\netcoreapp3.1\ProyectoFinalProducto.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GitHub\POO-2020\ProyectoFinalProducto\obj\Debug\netcoreapp3.1\ProyectoFinalProducto.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\GitHub\POO-2020\ProyectoFinalProducto\obj\Debug\netcoreapp3.1\ProyectoFinalProducto.AssemblyInfo.cs
+C:\Users\sebas\Documents\GitHub\POO-2020\ProyectoFinalProducto\obj\Debug\netcoreapp3.1\ProyectoFinalProducto.dll
+C:\Users\sebas\Documents\GitHub\POO-2020\ProyectoFinalProducto\obj\Debug\netcoreapp3.1\ProyectoFinalProducto.pdb
